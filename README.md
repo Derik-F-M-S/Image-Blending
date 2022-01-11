@@ -1,3 +1,4 @@
+![ExampleImage](dfmunozs_project02/penguin.png)
 # Image-Blending
 ECE-558 Digital Imaging Systems course project 2: This project involved Laplacian and Gaussian Image Pyramids and using these pyramids to blend two images together using a binary mask. A GUI is used to select the region of the foreground image to blend with the background image.
 
